@@ -56,6 +56,12 @@ Developed by: RegisterNumber:*/
 
 **RTL Schematic**
 
+![ex 3(1) gate](https://github.com/23002776/HALF_ADDER_SUBTRACTOR/assets/145742657/bcc65726-ca15-4edd-961f-8ce20c06a08b)
+
+
 **Output/TIMING Waveform**
+![ex 3gate](https://github.com/23002776/HALF_ADDER_SUBTRACTOR/assets/145742657/ff505405-feff-4bac-bcd4-9129248cbe81)
+
 
 **Result:**
+program implement of half_adder and half_subtractor circuit is excuted successfully.
